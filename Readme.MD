@@ -1,4 +1,9 @@
 # SQL-TASK EXERCISES
+This repository contains a series of SQL exercises designed to test and improve SQL querying skills. Each exercise is presented as an image file, and the corresponding SQL queries or solutions are provided below each exercise description.
+
+### SQL Exercises
+
+For additional SQL exercises and learning resources, you can also visit [SQLBolt](https://sqlbolt.com/). SQLBolt offers interactive SQL tutorials and exercises that cover a wide range of topics.
 
 
 ## EXERCISE-1
@@ -73,3 +78,7 @@
 ![EXCERSISE-18](/Exercise-18.png)
 
  ----
+
+### License
+
+This repository is licensed under the [MIT License](LICENSE).
